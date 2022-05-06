@@ -461,6 +461,13 @@ module.exports.communityPlugins = [
       "Handy set of utilities for testing contracts in Hardhat projects",
     tags: ["testing", "solidity"],
   },
+  {
+    name: "@vechain.energy/hardhat-thor",
+    author: "vechain.energy",
+    authorUrl: "https://vechain.energy",
+    description: "Alow to deploy and interact with the contracts on VeChain",
+    tags: ["deployment", "vechain"],
+  },
 ];
 
 module.exports.officialPlugins = [
